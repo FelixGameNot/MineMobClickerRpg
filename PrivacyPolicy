@@ -10,6 +10,7 @@ I do not collect any personal data about the players. But as the application was
 
 Used permissions
 Application is asking for permissions to have unlimited Internet access and view network connections to download and show advertisements to users (that makes my application free), it can also be used to send anonymous statistics about the gameplay to the Unity servers.
+The app permission to read and write data on the device storage is used ONLY to read/write game save files.
 
 Saving Game progress
 All the progress you have achieved in the application is stored locally on your device. This data will be permanently erased from your device as soon as you uninstall the application.
@@ -20,4 +21,4 @@ I may update our Privacy Policy from time to time. Therefore, it is recommended 
 Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at holds339@gmail.com.
 
-Last modified - July 25, 2019
+Last modified - August 03, 2019
