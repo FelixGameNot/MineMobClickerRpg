@@ -5,12 +5,12 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 Information Collection and Use
 I do not collect any personal data about the players. But as the application was created with Unity and is using some third-party services to work, it can automatically collect some data about the user. I advise you to familiarize yourself with the policies of the services I use so that you can understand exactly what data can be collected by the application and learn about the ways it might be used:
--Unity Ads: https://unity3d.com/legal/privacy-policy
+-Appodeal: https://www.appodeal.com/home/privacy-policy/
 -Google Play Services, Admob: https://policies.google.com/privacy
 
 Used permissions
 Application is asking for permissions to have unlimited Internet access and view network connections to download and show advertisements to users (that makes my application free), it can also be used to send anonymous statistics about the gameplay to the Unity servers.
-The app permission to read and write data on the device storage is used ONLY to read/write game save files.
+The app permission to read and write data on the device storage is used ONLY to read/write game save files. All other permissions are being used to improve your game experience, including the display of more relevant ads.
 
 Saving Game progress
 All the progress you have achieved in the application is stored locally on your device. This data will be permanently erased from your device as soon as you uninstall the application.
@@ -21,4 +21,4 @@ I may update our Privacy Policy from time to time. Therefore, it is recommended 
 Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at holds339@gmail.com.
 
-Last modified - August 06, 2019
+Last modified - December 07, 2019
